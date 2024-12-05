@@ -1,3 +1,3 @@
 # myprojects-demo
 
-Author -Bhaskar sharma
+Author -Bhaskar (project)
